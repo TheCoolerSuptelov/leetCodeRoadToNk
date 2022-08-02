@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LongestPrefix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pow50/ArrayInPace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pow50/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseWordsInString/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +54,26 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.ReverseWordsInString.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LargestNumberAtleast2.Main" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LargestNumberAtleast2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWordsInString.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseWordsInString.Solution" />
+      <module name="leetcodeTasks-actual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReverseWordsInString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseWordsInString.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
       </list>
@@ -146,6 +158,11 @@
           <url>file://$PROJECT_DIR$/src/LongestPrefix/Solution.java</url>
           <line>9</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseWordsInString/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
