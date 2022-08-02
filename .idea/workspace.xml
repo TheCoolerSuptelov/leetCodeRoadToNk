@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FactorialTrailingZeroes172/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPrefix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pow50/ArrayInPace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pow50/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +56,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LargestNumberAtleast2.Main" />
       <module name="leetcodeTasks-actual" />
@@ -68,8 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestPrefix.Solution" />
+      <module name="leetcodeTasks-actual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LongestPrefix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -120,6 +136,16 @@
           <url>file://$PROJECT_DIR$/src/LargestNumberAtleast2/Main.java</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LongestPrefix/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LongestPrefix/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
