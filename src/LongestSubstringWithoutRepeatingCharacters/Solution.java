@@ -8,6 +8,7 @@ public class Solution {
         int n = s.length();
         int longestSequence = 0;
         Map<Character, Integer> currentCharactersPosition = new HashMap<>();
+        // Используем 2 итератора как скользящее окно, для динамического сдвига последовательности
         for (int startSubstringWithoutRepeat = 0, iterator = 0; iterator < n; iterator++) {
             var curChar = s.charAt(iterator);
             if (currentCharactersPosition.containsKey(curChar)) {
