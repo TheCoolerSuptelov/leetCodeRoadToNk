@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/CorrectParentless.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
