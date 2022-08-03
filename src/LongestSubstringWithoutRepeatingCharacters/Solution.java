@@ -7,13 +7,14 @@ public class Solution {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int longestSequence = 0;
-        Map<Character, Integer> map = new HashMap<>();
-        for (int i = 0, j = 0; j < n; j++) {
-            if (map.containsKey(s.charAt(j))) {
-                i = Math.max(map.get(s.charAt(j)), i);
+        Map<Character, Integer> currentCharactersPosition = new HashMap<>();
+        for (int startSubstringWithoutRepeat = 0, iterator = 0; iterator < n; iterator++) {
+            var curChar = s.charAt(iterator);
+            if (currentCharactersPosition.containsKey(curChar)) {
+                startSubstringWithoutRepeat = Math.max(currentCharactersPosition.get(curChar), startSubstringWithoutRepeat);
             }
-            longestSequence = Math.max(longestSequence, j - i + 1);
-            map.put(s.charAt(j), j + 1);
+            longestSequence = Math.max(longestSequence, iterator - startSubstringWithoutRepeat + 1);
+            currentCharactersPosition.put(curChar, iterator + 1);
         }
         return longestSequence;
     }
