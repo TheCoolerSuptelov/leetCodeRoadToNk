@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53a75cab5afa3eaf9ab8c6da19188aafbfd6782c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdd1e5be92492594c36209d203df4d066c8c463a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTimetoBuyandSellStock/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +55,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AverageSalaryExcludingtheMinimumandMaximumSalary.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordsInString.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseWordsInString.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BestTimetoBuyandSellStock.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReverseWordsInString.*" />
+          <option name="PATTERN" value="BestTimetoBuyandSellStock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" />
         <item itemvalue="Application.moveZeroes.Solution" />
         <item itemvalue="Application.JumpGame.Solution" />
         <item itemvalue="Application.LengthOfLastWord.Solution" />
-        <item itemvalue="Application.ReverseWordsInString.Solution" />
       </list>
     </recent_temporary>
   </component>
