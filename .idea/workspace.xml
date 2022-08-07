@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductofArrayExceptSelf/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequentialDigits/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindAllNumbersDisappearedinanArray.Solution">
+  <component name="RunManager" selected="Application.ProductofArrayExceptSelf.Solution">
     <configuration name="AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpGame.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JumpGame.Solution" />
+    <configuration name="ProductofArrayExceptSelf.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductofArrayExceptSelf.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JumpGame.*" />
+          <option name="PATTERN" value="ProductofArrayExceptSelf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductofArrayExceptSelf.Solution" />
         <item itemvalue="Application.FindAllNumbersDisappearedinanArray.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" />
         <item itemvalue="Application.moveZeroes.Solution" />
-        <item itemvalue="Application.JumpGame.Solution" />
       </list>
     </recent_temporary>
   </component>
