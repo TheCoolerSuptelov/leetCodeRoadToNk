@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
+      <change afterPath="$PROJECT_DIR$/src/MissingNumber/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveElement/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveElement/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +55,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesfromSortedArray.Solution">
-    <configuration name="AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" />
+  <component name="RunManager" selected="Application.MissingNumber.Solution">
+    <configuration name="FindAllNumbersDisappearedinanArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAllNumbersDisappearedinanArray.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AverageSalaryExcludingtheMinimumandMaximumSalary.*" />
+          <option name="PATTERN" value="FindAllNumbersDisappearedinanArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAllNumbersDisappearedinanArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindAllNumbersDisappearedinanArray.Solution" />
+    <configuration name="MissingNumber.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumber.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FindAllNumbersDisappearedinanArray.*" />
+          <option name="PATTERN" value="MissingNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingNumber.Solution" />
         <item itemvalue="Application.RemoveDuplicatesfromSortedArray.Solution" />
         <item itemvalue="Application.ProductofArrayExceptSelf.Solution" />
         <item itemvalue="Application.FindAllNumbersDisappearedinanArray.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.AverageSalaryExcludingtheMinimumandMaximumSalary.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +212,11 @@
           <url>file://$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray/Solution.java</url>
           <line>9</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MissingNumber/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
