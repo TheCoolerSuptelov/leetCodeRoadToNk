@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageofLevelsinBinaryTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfIslands/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedList/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,11 +223,6 @@
           <url>file://$PROJECT_DIR$/src/Convert1DArrayInto2DArray/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/NumberOfIslands/Solution.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
