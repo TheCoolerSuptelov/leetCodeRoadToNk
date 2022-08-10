@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
+      <change afterPath="$PROJECT_DIR$/src/SummaryRanges/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +56,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SingleNumber.Solution">
+  <component name="RunManager" selected="Application.SummaryRanges.Solution">
     <configuration name="ExcelSheetColumnTitle.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExcelSheetColumnTitle.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExcelSheetColumnTitle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductofArrayExceptSelf.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProductofArrayExceptSelf.Solution" />
-      <module name="leetcodeTasks-actual" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProductofArrayExceptSelf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SummaryRanges.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SummaryRanges.Solution" />
+      <module name="leetcodeTasks-actual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SummaryRanges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SummaryRanges.Solution" />
         <item itemvalue="Application.SingleNumber.Solution" />
         <item itemvalue="Application.ExcelSheetColumnTitle.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.RemoveDuplicatesfromSortedArray.Solution" />
-        <item itemvalue="Application.ProductofArrayExceptSelf.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +228,16 @@
           <url>file://$PROJECT_DIR$/src/ExcelSheetColumnTitle/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SummaryRanges/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SummaryRanges/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
