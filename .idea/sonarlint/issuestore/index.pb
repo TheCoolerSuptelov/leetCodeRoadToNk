@@ -3,8 +3,6 @@ O
 src/LongestPrefix/Solution.java,5\3\53a75cab5afa3eaf9ab8c6da19188aafbfd6782c
 V
 &src/ReverseWordsInString/Solution.java,f\d\fdd1e5be92492594c36209d203df4d066c8c463a
-]
--src/AverageofLevelsinBinaryTree/Solution.java,8\3\83847f9189afa9d0f5c78e4d098cf0caf6d3e205
 Q
 !src/NumberOfIslands/Solution.java,2\2\22669bccf2c4e86d4b8b77fda695bd6865f1a7b7
 `

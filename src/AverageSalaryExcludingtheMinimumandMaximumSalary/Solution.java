@@ -10,8 +10,8 @@ public class Solution {
         int maxSalary = 0;
         for (int i = 0; i < salary.length; i++) {
             var curValue = salary[i];
-            if (curValue>maxSalary)maxSalary = curValue;
-            if (curValue<minSalary)minSalary = curValue;
+            if (curValue > maxSalary) maxSalary = curValue;
+            if (curValue < minSalary) minSalary = curValue;
         }
         double totalSalary = 0;
         int counter = 0;
