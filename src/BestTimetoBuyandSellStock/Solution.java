@@ -1,8 +1,5 @@
 package BestTimetoBuyandSellStock;
 
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public static void main(String[] args) {
         int[] testArr = new int[]{7,1,5,3,6,4};
@@ -13,7 +10,7 @@ class Solution {
         var curMaxProfit = 0;
         int buyAt = prices[0];
         for (int curDay = 0; curDay < prices.length; curDay++) {
-            if (prices[curDay] - buyAt > curMaxProfit)curMaxProfit=prices[curDay] - buyAt;
+            if (prices[curDay] - buyAt > curMaxProfit) curMaxProfit = prices[curDay] - buyAt;
             if (buyAt > prices[curDay]) {
                 buyAt = prices[curDay];
             }
