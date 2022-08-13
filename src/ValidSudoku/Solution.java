@@ -14,8 +14,7 @@ public class Solution {
             for (int col = 0; col < board[row].length; col++) {
                 if (board[row][col]=='.') continue;
                 if (!(rows.add(board[row][col]) && columns.add(board[row][col])))return false;
-                if(!cube.add(board[(3 * (row / 3) + col) / 3][(3 * (row % 3) + col) % 3]))return false;
-            }
+                            }
         }
         return true;
     }
