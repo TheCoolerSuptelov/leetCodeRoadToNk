@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/src/MergeSimilarItems/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSimilarItems/blank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MakeArrayZerobySubtractingEqualAmounts/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeSimilarItems.Solution">
+  <component name="RunManager" selected="Application.MakeArrayZerobySubtractingEqualAmounts.Solution">
     <configuration name="CountAndSay.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountAndSay.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -77,6 +76,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HappyNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeArrayZerobySubtractingEqualAmounts.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MakeArrayZerobySubtractingEqualAmounts.Solution" />
+      <module name="leetcodeTasks-actual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MakeArrayZerobySubtractingEqualAmounts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummaryRanges.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SummaryRanges.Solution" />
-      <module name="leetcodeTasks-actual" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SummaryRanges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeArrayZerobySubtractingEqualAmounts.Solution" />
         <item itemvalue="Application.MergeSimilarItems.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.HappyNumber.Solution" />
         <item itemvalue="Application.CountAndSay.Solution" />
-        <item itemvalue="Application.SummaryRanges.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +243,11 @@
           <url>file://$PROJECT_DIR$/src/MergeSimilarItems/Solution.java</url>
           <line>17</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MakeArrayZerobySubtractingEqualAmounts/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
