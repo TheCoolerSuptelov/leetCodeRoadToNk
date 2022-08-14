@@ -51,6 +51,7 @@ public class TreeNode {
     }
 
     public String prettyPrint() {
+        System.out.println("********************************************");
         StringBuffer sb = new StringBuffer();
         print_r(this, 0, sb);
         return sb.toString();
