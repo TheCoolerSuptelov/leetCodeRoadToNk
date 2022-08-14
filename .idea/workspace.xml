@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/src/JewelsandStones/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +56,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberofGoodPairs.Solution">
-    <configuration name="DefanginganIPAddress.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DefanginganIPAddress.Solution" />
+  <component name="RunManager" selected="Application.FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.Solution">
+    <configuration name="FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DefanginganIPAddress.*" />
+          <option name="PATTERN" value="FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.Solution" />
         <item itemvalue="Application.NumberofGoodPairs.Solution" />
         <item itemvalue="Application.RootEqualsSumofChildren.Solution" />
         <item itemvalue="Application.ShuffletheArray.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.DefanginganIPAddress.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +272,17 @@
           </properties>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcodeTasks_actual$FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree_Solution.ic" NAME="FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.Solution Coverage Results" MODIFIED="1660479292341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.*</FILTER>
+    </SUITE>
   </component>
 </project>
