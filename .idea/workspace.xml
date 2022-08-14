@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/src/RunningSumof1dArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DefanginganIPAddress/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +56,26 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RunningSumof1dArray.Solution">
+  <component name="RunManager" selected="Application.DefanginganIPAddress.Solution">
     <configuration name="ConcatenationofArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenationofArray.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ConcatenationofArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefanginganIPAddress.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefanginganIPAddress.Solution" />
+      <module name="leetcodeTasks-actual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DefanginganIPAddress.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberofArithmeticTriplets.Solution" />
-      <module name="leetcodeTasks-actual" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NumberofArithmeticTriplets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DefanginganIPAddress.Solution" />
         <item itemvalue="Application.RunningSumof1dArray.Solution" />
         <item itemvalue="Application.ConcatenationofArray.Solution" />
         <item itemvalue="Application.MakeArrayZerobySubtractingEqualAmounts.Solution" />
         <item itemvalue="Application.MergeSimilarItems.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
