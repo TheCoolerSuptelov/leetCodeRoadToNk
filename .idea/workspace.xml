@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/src/RichestCustomerWealth/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShuffletheArray/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.ShuffletheArray.Solution">
     <configuration name="ConcatenationofArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenationofArray.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeArrayZerobySubtractingEqualAmounts.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MakeArrayZerobySubtractingEqualAmounts.Solution" />
+    <configuration name="RunningSumof1dArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunningSumof1dArray.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MakeArrayZerobySubtractingEqualAmounts.*" />
+          <option name="PATTERN" value="RunningSumof1dArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumof1dArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RunningSumof1dArray.Solution" />
+    <configuration name="ShuffletheArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShuffletheArray.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RunningSumof1dArray.*" />
+          <option name="PATTERN" value="ShuffletheArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShuffletheArray.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.DefanginganIPAddress.Solution" />
         <item itemvalue="Application.RunningSumof1dArray.Solution" />
         <item itemvalue="Application.ConcatenationofArray.Solution" />
-        <item itemvalue="Application.MakeArrayZerobySubtractingEqualAmounts.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +253,11 @@
           <url>file://$PROJECT_DIR$/src/FinalValueofVariableAfterPerformingOperations/Solution.java</url>
           <line>18</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ShuffletheArray/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
