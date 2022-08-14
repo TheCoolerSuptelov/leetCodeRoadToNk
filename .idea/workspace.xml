@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783" />
+    <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
+      <change afterPath="$PROJECT_DIR$/src/RunningSumof1dArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,26 +56,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConcatenationofArray.Solution">
+  <component name="RunManager" selected="Application.RunningSumof1dArray.Solution">
     <configuration name="ConcatenationofArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenationofArray.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ConcatenationofArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HappyNumber.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HappyNumber.Solution" />
-      <module name="leetcodeTasks-actual" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HappyNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunningSumof1dArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunningSumof1dArray.Solution" />
+      <module name="leetcodeTasks-actual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RunningSumof1dArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberofArithmeticTriplets.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -121,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunningSumof1dArray.Solution" />
         <item itemvalue="Application.ConcatenationofArray.Solution" />
         <item itemvalue="Application.MakeArrayZerobySubtractingEqualAmounts.Solution" />
         <item itemvalue="Application.MergeSimilarItems.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.HappyNumber.Solution" />
       </list>
     </recent_temporary>
   </component>
