@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/src/ShuffletheArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AwesomeTreeNode/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RootEqualsSumofChildren/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +57,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShuffletheArray.Solution">
-    <configuration name="ConcatenationofArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConcatenationofArray.Solution" />
+  <component name="RunManager" selected="Application.RootEqualsSumofChildren.Solution">
+    <configuration name="DefanginganIPAddress.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefanginganIPAddress.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConcatenationofArray.*" />
+          <option name="PATTERN" value="DefanginganIPAddress.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefanginganIPAddress.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DefanginganIPAddress.Solution" />
+    <configuration name="RootEqualsSumofChildren.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RootEqualsSumofChildren.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DefanginganIPAddress.*" />
+          <option name="PATTERN" value="RootEqualsSumofChildren.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RootEqualsSumofChildren.Solution" />
         <item itemvalue="Application.ShuffletheArray.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.DefanginganIPAddress.Solution" />
         <item itemvalue="Application.RunningSumof1dArray.Solution" />
-        <item itemvalue="Application.ConcatenationofArray.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -258,6 +259,11 @@
           <url>file://$PROJECT_DIR$/src/ShuffletheArray/Solution.java</url>
           <line>20</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RootEqualsSumofChildren/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
