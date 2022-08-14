@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/src/HowManyNumbersAreSmallerThantheCurrentNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubtracttheProductandSumofDigitsofanInteger/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HowManyNumbersAreSmallerThantheCurrentNumber.Solution">
+  <component name="RunManager" selected="Application.GoalParserInterpretation.Solution">
     <configuration name="DeepestLeavesSum.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeepestLeavesSum.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowManyNumbersAreSmallerThantheCurrentNumber.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HowManyNumbersAreSmallerThantheCurrentNumber.Solution" />
+    <configuration name="GoalParserInterpretation.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoalParserInterpretation.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HowManyNumbersAreSmallerThantheCurrentNumber.*" />
+          <option name="PATTERN" value="GoalParserInterpretation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberofGoodPairs.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberofGoodPairs.Solution" />
+    <configuration name="HowManyNumbersAreSmallerThantheCurrentNumber.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HowManyNumbersAreSmallerThantheCurrentNumber.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NumberofGoodPairs.*" />
+          <option name="PATTERN" value="HowManyNumbersAreSmallerThantheCurrentNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GoalParserInterpretation.Solution" />
         <item itemvalue="Application.HowManyNumbersAreSmallerThantheCurrentNumber.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.DeepestLeavesSum.Solution" />
         <item itemvalue="Application.FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.Solution" />
-        <item itemvalue="Application.NumberofGoodPairs.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -282,6 +281,11 @@
           <url>file://$PROJECT_DIR$/src/SubtracttheProductandSumofDigitsofanInteger/Solution.java</url>
           <line>23</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
