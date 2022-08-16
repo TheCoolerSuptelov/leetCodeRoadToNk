@@ -5,13 +5,137 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
-      <change afterPath="$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02f42cabc44621586c3677d6cc03ddbdf980aad5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06aee5699b0782cbbd7a5f84ecbb407be9600250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/1349cb5dbb89775da2828091702795df5449f2d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d012fe949a256b0d3671f8b143f4e2397954821" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21bbc5a58d353939377528cc96ab8ed243724a55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22669bccf2c4e86d4b8b77fda695bd6865f1a7b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2477c86a7a4ed5d5b1083621b2e0165219332f8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/276e8539f5701ee248d75f94361519fa406132a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/289a5107aa059a87889b79647872ec47e290ae5d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2999928b6987fd897e021049af7ae30166fe7488" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a654d9ae904e8e0c9793eb89251c481c78a139f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ef01d4866c41fd3561d5e206b66ef2c49649020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/396ef3fe4c82a6d38f492964137b03e9c8524c93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442bffab7723eb21340a5f3cfc573c3bae10b1f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/460a2d994f93f8a03032c19edcd30107f90d3b32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5de6235a8c3d0d6eb73aac101c9fb7f1a0accb12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6fc15b15bb55dcfedf84f32aa4fe586771287036" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79b224daa0a1151cca29b2e11d7b6ed6a936add3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84ec1afffb9355a0b9ff767f2f3a4ca83ca6a110" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/914b63ac3a3e0ec5ae046a26fce98e3781f5c3d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/936c0e9b7c1e2655c971445da1bb9c22aa826c3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a594a5af3c0ba9d7d47cd2c18a09e180ae8b2d87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac6469b4e036559881a428bd4ebe3a474be294bf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd190830f549582ce58ef3a7f6efeb8e46e7221" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b130bb7f9960a3cdd7a3cb651e2af90b5a4e130d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3b5eea9f1ede8ad2ff05ec01af1d09a707e45cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c460a9bb0cb5b3414dabfd1d4dae2bc39c2529ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4358ebf0c247db855fb7ac31992e04e1bf8f8e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d462d3aba94a757806296136375d689138e44815" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e33923789525cb995e4ed60fb1c00eda2d60a74c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e51b464e536b9fbece92247c33d3316b6768aa83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e667b1db14a4dbc6c538613a8835896c4e2fdc60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb61dbbff1c1222054bdc77206d9d346b125ecd0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0f6d1e3bfbbf6f3bf1882a92aeea2abcac71879" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f314f66fded969573a3b83852cabee31eb076058" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3d57eeb35e815b1d421a89101497c2ced52dcef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fab77d8a2e16be0b4a15f4dab62cb188e14c7fc8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcodeTasks-actual.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodeTasks-actual.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrangingCoins/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrangingCoins/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AverageofLevelsinBinaryTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AverageofLevelsinBinaryTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AwesomeTreeNode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AwesomeTreeNode/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BestTimetoBuyandSellStock/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BestTimetoBuyandSellStock/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClimbingStairs/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClimbingStairs/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcatenationofArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConcatenationofArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Convert1DArrayInto2DArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Convert1DArrayInto2DArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountAndSay/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountAndSay/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeepestLeavesSum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeepestLeavesSum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DefanginganIPAddress/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DefanginganIPAddress/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeleteNodeinaLinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeleteNodeinaLinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcelSheetColumnTitle/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcelSheetColumnTitle/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactorialTrailingZeroes172/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactorialTrailingZeroes172/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalValueofVariableAfterPerformingOperations/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalValueofVariableAfterPerformingOperations/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindFirstandLastPositionofElementinSortedArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindFirstandLastPositionofElementinSortedArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FizzBuzz412/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBuzz412/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HappyNumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HappyNumber/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HowManyNumbersAreSmallerThantheCurrentNumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HowManyNumbersAreSmallerThantheCurrentNumber/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JewelsandStones/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JewelsandStones/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JumpGame/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JumpGame/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KidsWithGreatesAmountOfCandy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KidsWithGreatesAmountOfCandy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LengthOfLastWord/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LengthOfLastWord/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedListCycle/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListCycle/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPrefix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestPrefix/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/CorrectParentless.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/CorrectParentless.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MakeArrayZerobySubtractingEqualAmounts/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MakeArrayZerobySubtractingEqualAmounts/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumDepthofBinaryTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumDepthofBinaryTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumNumberofWordsFoundinSentences/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumNumberofWordsFoundinSentences/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSimilarItems/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSimilarItems/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSortedArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSortedArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeTwoSortedLists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeTwoSortedLists/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumSumofFourDigitNumberAfterSplittingDigits/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumSumofFourDigitNumberAfterSplittingDigits/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MissingNumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MissingNumber/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberOfIslands/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberOfIslands/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberofArithmeticTriplets/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberofArithmeticTriplets/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberofGoodPairs/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberofGoodPairs/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeLinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeLinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeNumber9/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeNumber9/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PartitioningIntoMinimumNumberOfDeciBinaryNumbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartitioningIntoMinimumNumberOfDeciBinaryNumbers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PascalsTriangle/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PascalsTriangle/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pow50/ArrayInPace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pow50/ArrayInPace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pow50/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pow50/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowerofTwo/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerofTwo/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductofArrayExceptSelf/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProductofArrayExceptSelf/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RelatedDNASequence/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RelatedDNASequence/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveElement/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveElement/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveLinkedListElements/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveLinkedListElements/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseLinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseWordsInString/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseWordsInString/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RichestCustomerWealth/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RichestCustomerWealth/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RootEqualsSumofChildren/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RootEqualsSumofChildren/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RunningSumof1dArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RunningSumof1dArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SameTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SameTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SequentialDigits/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SequentialDigits/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShuffletheArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShuffletheArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleNumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleNumber/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubtracttheProductandSumofDigitsofanInteger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubtracttheProductandSumofDigitsofanInteger/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SummaryRanges/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SummaryRanges/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UglyNumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UglyNumber/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidSudoku/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidSudoku/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordPattern/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordPattern/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moveZeroes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moveZeroes/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,6 +161,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2ChwzOe3u2zAlUeiUJYdjusD22j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,11 +176,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "D:/java/petProjects/leetcodeTasks-actual",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/kirill/Downloads/codeStyleSettings/inspection/Default.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RunManager" selected="Application.GoalParserInterpretation.Solution">
@@ -140,6 +273,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659268389768</updated>
+      <workItem from="1660574101497" duration="204000" />
+      <workItem from="1660649591345" duration="984000" />
+      <workItem from="1660650671461" duration="391000" />
+      <workItem from="1660651075019" duration="66000" />
+      <workItem from="1660651150841" duration="167000" />
+      <workItem from="1660651327739" duration="1226000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -150,6 +289,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -245,11 +387,6 @@
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ConcatenationofArray/Solution.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FinalValueofVariableAfterPerformingOperations/Solution.java</url>
           <line>18</line>
           <option name="timeStamp" value="53" />
@@ -289,6 +426,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcodeTasks_actual$FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree_Solution.ic" NAME="FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.Solution Coverage Results" MODIFIED="1660479292341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -1,0 +1,11 @@
+
+I
+java:S1121".Extract the assignment out of this expression.(ú­÷±øÿÿÿÿ
+Y
+java:S1226">Introduce a new variable instead of reusing the parameter "x".(ú­÷±øÿÿÿÿ
+R
+java:S2589	"7Remove this expression which always evaluates to "true"(“Îš‚þÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(¢„†•øÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "x".(ú­÷±øÿÿÿÿ
