@@ -7,19 +7,14 @@ class Solution {
     public static void main(String[] args) {
         TreeNode root = new TreeNode(new Integer[]{4, 1, 6, 0, 2, 5, 7, null, null, null, 3, null, null, null, 8});
         System.out.println(bstToGst(root).prettyPrint());
-
     }
 
     public static TreeNode bstToGst(TreeNode root) {
-
         changeValueToTreeNode(root);
-
         return root;
-
     }
 
     static void changeValueToTreeNode(TreeNode node) {
-
         ArrayList<Integer> arrr = new ArrayList<>();
         fillArray(node, arrr);
         calculateNewValue(node, arrr);
