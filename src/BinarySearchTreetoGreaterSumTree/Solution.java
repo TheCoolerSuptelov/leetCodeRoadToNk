@@ -5,7 +5,8 @@ import java.util.ArrayList;
 
 class Solution {
     public static void main(String[] args) {
-        System.out.println(bstToGst(new TreeNode(new Integer[]{4, 1, 6, 0, 2, 5, 7, null, null, null, 3, null, null, null, 8})).prettyPrint());
+        TreeNode root = new TreeNode(new Integer[]{4, 1, 6, 0, 2, 5, 7, null, null, null, 3, null, null, null, 8});
+        System.out.println(bstToGst(root).prettyPrint());
 
     }
 
