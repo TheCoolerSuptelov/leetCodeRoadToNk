@@ -24,19 +24,15 @@ class Solution {
     }
 
     static int avgCounter(TreeNode node, int counter) {
-        var xx = sumOfAllElements(node) / countOfAllElements(node);
-        if (node.val == (xx)) {
+        if (node.val == (sumOfAllElements(node) / countOfAllElements(node))) {
             counter++;
         }
         if (node.right != null) {
-            var xxx = avgCounter(node.right, counter);
-            counter = xxx;
+            counter = avgCounter(node.right, counter);
         }
         if (node.left != null) {
-            var xxxx = avgCounter(node.left, counter);
-            counter = xxxx;
+            counter = avgCounter(node.left, counter);
         }
-
 
         return counter;
     }
