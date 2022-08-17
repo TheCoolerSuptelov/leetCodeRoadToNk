@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for countMatches">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTreetoGreaterSumTree/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountNodesEqualtoAverageofSubtree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountNodesEqualtoAverageofSubtree/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +67,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="GoalParserInterpretation.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GoalParserInterpretation.Solution" />
+  <component name="RunManager" selected="Application.BinarySearchTreetoGreaterSumTree.Solution">
+    <configuration name="BinarySearchTreetoGreaterSumTree.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTreetoGreaterSumTree.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GoalParserInterpretation.*" />
+          <option name="PATTERN" value="BinarySearchTreetoGreaterSumTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTreetoGreaterSumTree.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MaxIncreasetoKeepCitySkyline.Solution" />
         <item itemvalue="Application.MergeNodesinBetweenZeros.Solution" />
         <item itemvalue="Application.RangeSumofBST.Solution" />
-        <item itemvalue="Application.GoalParserInterpretation.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,7 @@
       <workItem from="1660651327739" duration="1226000" />
       <workItem from="1660652568986" duration="3844000" />
       <workItem from="1660657829175" duration="6005000" />
-      <workItem from="1660732794316" duration="8370000" />
+      <workItem from="1660732794316" duration="9254000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -328,6 +328,11 @@
           <url>file://$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java</url>
           <line>23</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearchTreetoGreaterSumTree/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
