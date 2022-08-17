@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for countMatches">
-      <change afterPath="$PROJECT_DIR$/src/AwesomeListNode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeNodesinBetweenZeros/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e667b1db14a4dbc6c538613a8835896c4e2fdc60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3d57eeb35e815b1d421a89101497c2ced52dcef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +67,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeNodesinBetweenZeros.Solution">
+  <component name="RunManager" selected="Application.MaxIncreasetoKeepCitySkyline.Solution">
     <configuration name="GoalParserInterpretation.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GoalParserInterpretation.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -91,6 +87,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HowManyNumbersAreSmallerThantheCurrentNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxIncreasetoKeepCitySkyline.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxIncreasetoKeepCitySkyline.Solution" />
+      <module name="leetcodeTasks-actual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MaxIncreasetoKeepCitySkyline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubtracttheProductandSumofDigitsofanInteger.Solution" />
-      <module name="leetcodeTasks-actual" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SubtracttheProductandSumofDigitsofanInteger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxIncreasetoKeepCitySkyline.Solution" />
         <item itemvalue="Application.MergeNodesinBetweenZeros.Solution" />
         <item itemvalue="Application.RangeSumofBST.Solution" />
         <item itemvalue="Application.GoalParserInterpretation.Solution" />
         <item itemvalue="Application.HowManyNumbersAreSmallerThantheCurrentNumber.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +159,7 @@
       <workItem from="1660651327739" duration="1226000" />
       <workItem from="1660652568986" duration="3844000" />
       <workItem from="1660657829175" duration="6005000" />
-      <workItem from="1660732794316" duration="3706000" />
+      <workItem from="1660732794316" duration="6215000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -332,6 +328,16 @@
           <url>file://$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java</url>
           <line>23</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
