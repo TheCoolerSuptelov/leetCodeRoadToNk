@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for countMatches">
-      <change afterPath="$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +159,7 @@
       <workItem from="1660651327739" duration="1226000" />
       <workItem from="1660652568986" duration="3844000" />
       <workItem from="1660657829175" duration="6005000" />
-      <workItem from="1660732794316" duration="6215000" />
+      <workItem from="1660732794316" duration="6410000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -328,16 +328,6 @@
           <url>file://$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java</url>
           <line>23</line>
           <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

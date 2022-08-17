@@ -17,7 +17,7 @@ public class Solution {
         System.out.println(maxIncreaseKeepingSkyline(grid));
     }
 
-    public int maxIncreaseKeepingSkyline(int[][] grid) {
+    public static int maxIncreaseKeepingSkyline(int[][] grid) {
         var totalElevateLevel = 0;
         for (int row = 0; row < grid.length; row++) {
             int maxRow = findMax(grid, row);
@@ -30,7 +30,7 @@ public class Solution {
         return totalElevateLevel;
     }
 
-    int findMax(int[][] grid, int row) {
+    static int findMax(int[][] grid, int row) {
         var curMax = Integer.MIN_VALUE;
         for (int i = 0; i < grid[row].length; i++) {
             if (grid[row][i] > curMax) curMax = grid[row][i];
@@ -38,7 +38,7 @@ public class Solution {
         return curMax;
     }
 
-    int findMaxColumn(int[][] grid, int column) {
+    static int findMaxColumn(int[][] grid, int column) {
         var curMax = Integer.MIN_VALUE;
         for (int i = 0; i < grid.length; i++) {
             if (grid[i][column] > curMax) curMax = grid[i][column];
