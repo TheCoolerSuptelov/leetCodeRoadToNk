@@ -75,3 +75,11 @@ Z
 *src/GoalParserInterpretation/Solution.java,2\9\2999928b6987fd897e021049af7ae30166fe7488
 V
 &src/ConcatenationofArray/Solution.java,7/9/79f25c7936b686c14d99452f6ef1301b57d7e7b1
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+d
+4src/NumberofStepstoReduceaNumbertoZero/Solution.java,4/6/46cd2a533f1960c0e8c119d3a52c2f480e1dfb9d
+O
+src/RangeSumofBST/Solution.java,c/5/c59d20b5cb997afa2dd0f39e8a77519508972021
+Q
+!src/AwesomeTreeNode/TreeNode.java,f/3/f3d57eeb35e815b1d421a89101497c2ced52dcef
