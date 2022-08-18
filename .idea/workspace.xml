@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for countMatches">
-      <change afterPath="$PROJECT_DIR$/src/ReduceArraySizetoTheHalf/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumBinaryTree/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReduceArraySizetoTheHalf.Solution">
+  <component name="RunManager" selected="Application.MaximumBinaryTree.Solution">
     <configuration name="BinarySearchTreetoGreaterSumTree.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchTreetoGreaterSumTree.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxIncreasetoKeepCitySkyline.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxIncreasetoKeepCitySkyline.Solution" />
+    <configuration name="MaximumBinaryTree.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumBinaryTree.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MaxIncreasetoKeepCitySkyline.*" />
+          <option name="PATTERN" value="MaximumBinaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumBinaryTree.Solution" />
         <item itemvalue="Application.ReduceArraySizetoTheHalf.Solution" />
         <item itemvalue="Application.MatrixDiagonalSum.Solution" />
         <item itemvalue="Application.BinarySearchTreetoGreaterSumTree.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MaxIncreasetoKeepCitySkyline.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +160,7 @@
       <workItem from="1660652568986" duration="3844000" />
       <workItem from="1660657829175" duration="6005000" />
       <workItem from="1660732794316" duration="11027000" />
-      <workItem from="1660823299974" duration="2373000" />
+      <workItem from="1660823299974" duration="5515000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -330,11 +329,6 @@
           <url>file://$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java</url>
           <line>23</line>
           <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReduceArraySizetoTheHalf/Solution.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
