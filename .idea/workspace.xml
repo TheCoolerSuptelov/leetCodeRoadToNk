@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for countMatches">
-      <change afterPath="$PROJECT_DIR$/src/ValidBraces/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubrectangleQueries/SubrectangleQueries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +169,7 @@
       <workItem from="1660907317060" duration="807000" />
       <workItem from="1660908394873" duration="152000" />
       <workItem from="1660908559704" duration="860000" />
-      <workItem from="1661071793437" duration="3558000" />
+      <workItem from="1661071793437" duration="4447000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -338,16 +338,6 @@
           <url>file://$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java</url>
           <line>23</line>
           <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ValidBraces/Solution.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ValidBraces/Solution.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
