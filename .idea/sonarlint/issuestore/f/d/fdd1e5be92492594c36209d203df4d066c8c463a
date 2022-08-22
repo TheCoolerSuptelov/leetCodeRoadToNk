@@ -1,10 +1,0 @@
-
-s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(í·„øÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ãâÔ
-z
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùîšÔøÿÿÿÿ
-;
-java:S2129" Remove this "String" constructor(°ƒÿçøÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(±É›Ã
-
-java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(û•†Êüÿÿÿÿ
