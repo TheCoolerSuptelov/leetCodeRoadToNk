@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for countMatches">
-      <change afterPath="$PROJECT_DIR$/src/MaximumNumberofCoinsYouCanGet/Solution.java" afterDir="false" />
+    <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for Codec EncodeandDecodeTinyURL">
+      <change afterPath="$PROJECT_DIR$/src/EncodeandDecodeTinyURL/Codec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/kirill/develop/s7-smi/logger-lib/pom.xml",
+    "last_opened_file_path": "/home/kirill/develop/s7-smi/sba-psn-api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -169,7 +169,8 @@
       <workItem from="1660907317060" duration="807000" />
       <workItem from="1660908394873" duration="152000" />
       <workItem from="1660908559704" duration="860000" />
-      <workItem from="1661071793437" duration="5637000" />
+      <workItem from="1661071793437" duration="6037000" />
+      <workItem from="1661154344666" duration="3090000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -221,7 +222,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="Add solution for Range sum of BST" />
     <MESSAGE value="Add solution for countMatches" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution for countMatches" />
+    <MESSAGE value="Add solution for Codec EncodeandDecodeTinyURL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution for Codec EncodeandDecodeTinyURL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -338,6 +340,11 @@
           <url>file://$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java</url>
           <line>23</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaximumNumberofCoinsYouCanGet/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
