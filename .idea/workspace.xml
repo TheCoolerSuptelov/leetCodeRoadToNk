@@ -5,46 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for Codec EncodeandDecodeTinyURL">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02f42cabc44621586c3677d6cc03ddbdf980aad5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06aee5699b0782cbbd7a5f84ecbb407be9600250" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/1349cb5dbb89775da2828091702795df5449f2d3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d012fe949a256b0d3671f8b143f4e2397954821" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21bbc5a58d353939377528cc96ab8ed243724a55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22669bccf2c4e86d4b8b77fda695bd6865f1a7b7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2477c86a7a4ed5d5b1083621b2e0165219332f8f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/276e8539f5701ee248d75f94361519fa406132a7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/289a5107aa059a87889b79647872ec47e290ae5d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2999928b6987fd897e021049af7ae30166fe7488" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a654d9ae904e8e0c9793eb89251c481c78a139f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ef01d4866c41fd3561d5e206b66ef2c49649020" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/396ef3fe4c82a6d38f492964137b03e9c8524c93" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442bffab7723eb21340a5f3cfc573c3bae10b1f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/460a2d994f93f8a03032c19edcd30107f90d3b32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53a75cab5afa3eaf9ab8c6da19188aafbfd6782c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5de6235a8c3d0d6eb73aac101c9fb7f1a0accb12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6fc15b15bb55dcfedf84f32aa4fe586771287036" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79b224daa0a1151cca29b2e11d7b6ed6a936add3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84ec1afffb9355a0b9ff767f2f3a4ca83ca6a110" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/914b63ac3a3e0ec5ae046a26fce98e3781f5c3d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/936c0e9b7c1e2655c971445da1bb9c22aa826c3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a594a5af3c0ba9d7d47cd2c18a09e180ae8b2d87" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac6469b4e036559881a428bd4ebe3a474be294bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd190830f549582ce58ef3a7f6efeb8e46e7221" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b130bb7f9960a3cdd7a3cb651e2af90b5a4e130d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3b5eea9f1ede8ad2ff05ec01af1d09a707e45cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c460a9bb0cb5b3414dabfd1d4dae2bc39c2529ef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4358ebf0c247db855fb7ac31992e04e1bf8f8e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d462d3aba94a757806296136375d689138e44815" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e33923789525cb995e4ed60fb1c00eda2d60a74c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e51b464e536b9fbece92247c33d3316b6768aa83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb61dbbff1c1222054bdc77206d9d346b125ecd0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0f6d1e3bfbbf6f3bf1882a92aeea2abcac71879" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f314f66fded969573a3b83852cabee31eb076058" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fab77d8a2e16be0b4a15f4dab62cb188e14c7fc8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdd1e5be92492594c36209d203df4d066c8c463a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EncodeandDecodeTinyURL/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EncodeandDecodeTinyURL/Codec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/CorrectParentless.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/CorrectParentless.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pow50/ArrayInPace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pow50/ArrayInPace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +171,7 @@
       <workItem from="1660908394873" duration="152000" />
       <workItem from="1660908559704" duration="860000" />
       <workItem from="1661071793437" duration="6037000" />
-      <workItem from="1661154344666" duration="5212000" />
+      <workItem from="1661154344666" duration="5376000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
