@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for Codec EncodeandDecodeTinyURL">
-      <change afterPath="$PROJECT_DIR$/src/EncodeandDecodeTinyURL/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberofLaserBeamsinaBank/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaximumNumberofCoinsYouCanGet.Solution">
+  <component name="RunManager" selected="Application.NumberofLaserBeamsinaBank.Solution">
     <configuration name="Largest5digitnumberinaseries.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Largest5digitnumberinaseries.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReduceArraySizetoTheHalf.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReduceArraySizetoTheHalf.Solution" />
+    <configuration name="NumberofLaserBeamsinaBank.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberofLaserBeamsinaBank.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReduceArraySizetoTheHalf.*" />
+          <option name="PATTERN" value="NumberofLaserBeamsinaBank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberofLaserBeamsinaBank.Solution" />
         <item itemvalue="Application.MaximumNumberofCoinsYouCanGet.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Largest5digitnumberinaseries.Solution" />
         <item itemvalue="Application.MaximumBinaryTree.Solution" />
-        <item itemvalue="Application.ReduceArraySizetoTheHalf.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,7 @@
       <workItem from="1660908394873" duration="152000" />
       <workItem from="1660908559704" duration="860000" />
       <workItem from="1661071793437" duration="6037000" />
-      <workItem from="1661154344666" duration="3090000" />
+      <workItem from="1661154344666" duration="4334000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -345,6 +345,11 @@
           <url>file://$PROJECT_DIR$/src/MaximumNumberofCoinsYouCanGet/Solution.java</url>
           <line>19</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NumberofLaserBeamsinaBank/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
