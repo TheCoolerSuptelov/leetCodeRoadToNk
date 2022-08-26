@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for Codec EncodeandDecodeTinyURL">
+      <change afterPath="$PROJECT_DIR$/src/TestingTextEditor/LineNumbering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingTextEditor/LineNumberingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SameTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SameTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindingtheUsersActiveMinutes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindingtheUsersActiveMinutes/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/kirill/develop/s7-smi/sba-psn-api",
+    "last_opened_file_path": "/home/kirill/develop/petProjects/leetcodeTasks-actual",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,26 +74,13 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberofLaserBeamsinaBank.Solution">
-    <configuration name="Largest5digitnumberinaseries.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Largest5digitnumberinaseries.Solution" />
+  <component name="RunManager" selected="JUnit.LineNumberingTest.basicTests">
+    <configuration name="FindingtheUsersActiveMinutes.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindingtheUsersActiveMinutes.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Largest5digitnumberinaseries.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumBinaryTree.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumBinaryTree.Solution" />
-      <module name="leetcodeTasks-actual" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MaximumBinaryTree.*" />
+          <option name="PATTERN" value="FindingtheUsersActiveMinutes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,26 +114,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidBraces.Solution" />
+    <configuration name="LineNumberingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ValidBraces.*" />
+          <option name="PATTERN" value="TestingTextEditor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="TestingTextEditor" />
+      <option name="MAIN_CLASS_NAME" value="TestingTextEditor.LineNumberingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineNumberingTest.basicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcodeTasks-actual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestingTextEditor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestingTextEditor" />
+      <option name="MAIN_CLASS_NAME" value="TestingTextEditor.LineNumberingTest" />
+      <option name="METHOD_NAME" value="basicTests" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LineNumberingTest.basicTests" />
+        <item itemvalue="JUnit.LineNumberingTest" />
+        <item itemvalue="Application.FindingtheUsersActiveMinutes.Solution" />
         <item itemvalue="Application.NumberofLaserBeamsinaBank.Solution" />
         <item itemvalue="Application.MaximumNumberofCoinsYouCanGet.Solution" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Largest5digitnumberinaseries.Solution" />
-        <item itemvalue="Application.MaximumBinaryTree.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +178,8 @@
       <workItem from="1660908394873" duration="152000" />
       <workItem from="1660908559704" duration="860000" />
       <workItem from="1661071793437" duration="6037000" />
-      <workItem from="1661154344666" duration="5536000" />
+      <workItem from="1661154344666" duration="5647000" />
+      <workItem from="1661529068379" duration="1302000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
