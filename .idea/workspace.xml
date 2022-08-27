@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for Codec EncodeandDecodeTinyURL">
-      <change afterPath="$PROJECT_DIR$/src/MinimumNumberofOperationstoMoveAllBallstoEachBox/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueriesonNumberofPointsInsideaCircle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourSum/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +71,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinimumNumberofOperationstoMoveAllBallstoEachBox.Solution">
-    <configuration name="FindingtheUsersActiveMinutes.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindingtheUsersActiveMinutes.Solution" />
+  <component name="RunManager" selected="Application.FourSum.Solution">
+    <configuration name="FourSum.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FourSum.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FindingtheUsersActiveMinutes.*" />
+          <option name="PATTERN" value="FourSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FourSum.Solution" />
         <item itemvalue="Application.MinimumNumberofOperationstoMoveAllBallstoEachBox.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="JUnit.LineNumberingTest.basicTests" />
         <item itemvalue="JUnit.LineNumberingTest" />
-        <item itemvalue="Application.FindingtheUsersActiveMinutes.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +177,7 @@
       <workItem from="1661071793437" duration="6037000" />
       <workItem from="1661154344666" duration="5647000" />
       <workItem from="1661529068379" duration="1919000" />
-      <workItem from="1661574935936" duration="6556000" />
+      <workItem from="1661574935936" duration="7998000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
