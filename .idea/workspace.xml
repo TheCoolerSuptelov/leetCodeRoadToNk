@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for Codec EncodeandDecodeTinyURL">
-      <change afterPath="$PROJECT_DIR$/src/TestingTextEditor/LineNumbering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingTextEditor/LineNumberingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Findtheuniquenumber/FindUniqTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Findtheuniquenumber/Kata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindingtheUsersActiveMinutes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindingtheUsersActiveMinutes/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/kirill/develop/petProjects/leetcodeTasks-actual",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kirill/develop/petProjects/leetcodeTasks-actual&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.LineNumberingTest.basicTests">
     <configuration name="FindingtheUsersActiveMinutes.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindingtheUsersActiveMinutes.Solution" />
@@ -179,7 +177,8 @@
       <workItem from="1660908559704" duration="860000" />
       <workItem from="1661071793437" duration="6037000" />
       <workItem from="1661154344666" duration="5647000" />
-      <workItem from="1661529068379" duration="1302000" />
+      <workItem from="1661529068379" duration="1919000" />
+      <workItem from="1661574935936" duration="1942000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
