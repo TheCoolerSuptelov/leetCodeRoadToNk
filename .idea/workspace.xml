@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for Codec EncodeandDecodeTinyURL">
-      <change afterPath="$PROJECT_DIR$/src/Findtheuniquenumber/FindUniqTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Findtheuniquenumber/Kata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Findtheuniquenumber/FindUniqTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Findtheuniquenumber/FindUniqTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,7 @@
       <workItem from="1661071793437" duration="6037000" />
       <workItem from="1661154344666" duration="5647000" />
       <workItem from="1661529068379" duration="1919000" />
-      <workItem from="1661574935936" duration="1942000" />
+      <workItem from="1661574935936" duration="2334000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
