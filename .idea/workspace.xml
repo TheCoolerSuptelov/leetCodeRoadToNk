@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="Add solution for Codec EncodeandDecodeTinyURL">
+      <change afterPath="$PROJECT_DIR$/src/MinimumNumberofOperationstoMoveAllBallstoEachBox/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueriesonNumberofPointsInsideaCircle/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Findtheuniquenumber/FindUniqTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Findtheuniquenumber/FindUniqTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.LineNumberingTest.basicTests">
+  <component name="RunManager" selected="Application.MinimumNumberofOperationstoMoveAllBallstoEachBox.Solution">
     <configuration name="FindingtheUsersActiveMinutes.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindingtheUsersActiveMinutes.Solution" />
       <module name="leetcodeTasks-actual" />
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumberofCoinsYouCanGet.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumNumberofCoinsYouCanGet.Solution" />
+    <configuration name="MinimumNumberofOperationstoMoveAllBallstoEachBox.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumNumberofOperationstoMoveAllBallstoEachBox.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MaximumNumberofCoinsYouCanGet.*" />
+          <option name="PATTERN" value="MinimumNumberofOperationstoMoveAllBallstoEachBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberofLaserBeamsinaBank.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberofLaserBeamsinaBank.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueriesonNumberofPointsInsideaCircle.Solution" />
       <module name="leetcodeTasks-actual" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NumberofLaserBeamsinaBank.*" />
+          <option name="PATTERN" value="QueriesonNumberofPointsInsideaCircle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumNumberofOperationstoMoveAllBallstoEachBox.Solution" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="JUnit.LineNumberingTest.basicTests" />
         <item itemvalue="JUnit.LineNumberingTest" />
         <item itemvalue="Application.FindingtheUsersActiveMinutes.Solution" />
-        <item itemvalue="Application.NumberofLaserBeamsinaBank.Solution" />
-        <item itemvalue="Application.MaximumNumberofCoinsYouCanGet.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,7 @@
       <workItem from="1661071793437" duration="6037000" />
       <workItem from="1661154344666" duration="5647000" />
       <workItem from="1661529068379" duration="1919000" />
-      <workItem from="1661574935936" duration="2334000" />
+      <workItem from="1661574935936" duration="6556000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
