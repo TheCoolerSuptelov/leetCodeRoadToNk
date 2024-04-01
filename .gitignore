@@ -28,3 +28,18 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
+/.idea/**
+/.idea/
+/.idea/codeStyles/
+/.idea/inspectionProfiles/
+/.idea/leetcode/
+/.idea/shelf/
+/.idea/sonarlint/
+/.idea/checkstyle-idea.xml
+/.idea/compiler.xml
+/.idea/dbnavigator.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
