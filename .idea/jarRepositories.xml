@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="atcc-snapshot-mvn" />
+      <option name="name" value="atcc-snapshot-mvn" />
+      <option name="url" value="https://artifactory.raiffeisen.ru:443/artifactory/atcc-snapshot-mvn/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo1-snapshots" />
+      <option name="name" value="repo1-proxy-snapshots" />
+      <option name="url" value="https://artifactory.raiffeisen.ru:443/artifactory/repo1/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="JVM_COMMUNITY_REPO" />
+      <option name="name" value="JVM_COMMUNITY_REPO" />
+      <option name="url" value="https://artifactory.raiffeisen.ru/artifactory/jvm-community-release-mvn" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="corp-risk-repo" />
+      <option name="name" value="corp-risk-repo" />
+      <option name="url" value="https://artifactory.raiffeisen.ru:443/artifactory/corp-risk-mvn/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="repo1-cache-release" />
+      <option name="url" value="https://artifactory.raiffeisen.ru:443/artifactory/repo1-cache/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian-public-cache" />
+      <option name="name" value="atlassian-public-cache" />
+      <option name="url" value="https://artifactory.raiffeisen.ru:443/artifactory/atlassian-public-cache/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo1" />
+      <option name="name" value="repo1-proxy-release" />
+      <option name="url" value="https://artifactory.raiffeisen.ru:443/artifactory/repo1/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atcc-release-mvn" />
+      <option name="name" value="atcc-release-mvn" />
+      <option name="url" value="https://artifactory.raiffeisen.ru:443/artifactory/atcc-release-mvn/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="CORP_RISK_REPO" />
+      <option name="name" value="CORP_RISK_REPO" />
+      <option name="url" value="https://artifactory.raiffeisen.ru/artifactory/corp-risk-mvn" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="repo1-cache-snapshots" />
+      <option name="url" value="https://artifactory.raiffeisen.ru:443/artifactory/repo1-cache/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ATCC_REPO" />
+      <option name="name" value="ATCC_REPO" />
+      <option name="url" value="https://artifactory.raiffeisen.ru/artifactory/atcc-release-mvn" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ATCC_SNAPSHOT_REPO" />
+      <option name="name" value="ATCC_SNAPSHOT_REPO" />
+      <option name="url" value="https://artifactory.raiffeisen.ru/artifactory/atcc-snapshot-mvn" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
