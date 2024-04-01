@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="add pom.xml">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BinaryTreeInorderTraversal/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-rental.iml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-rental.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 &amp; Mockito" />
       </list>
     </option>
   </component>
@@ -58,7 +65,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -76,6 +83,9 @@
   "keyToString": {
     "Application.IdentifingTeaCompetition.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.SolutionTest.executor": "Run",
+    "JUnit.SolutionTest.testInorderTraversal.executor": "Debug",
+    "JUnit.SolutionTest.testInorderTraversal_only_one_element.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -92,26 +102,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.TestMe.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IdentifingTeaCompetition">
-    <configuration name="FourSum.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FourSum.Solution" />
-      <module name="leetcodeTasks-actual" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FourSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SolutionTest">
     <configuration name="IdentifingTeaCompetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beecrowd.T2006_identifying_tea.IdentifingTeaCompetition" />
       <module name="leetcodeTasks-actual" />
@@ -138,39 +135,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringwithAtLeastKRepeatingCharacters.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSubstringwithAtLeastKRepeatingCharacters.Solution" />
-      <module name="leetcodeTasks-actual" />
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie-rental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LongestSubstringwithAtLeastKRepeatingCharacters.*" />
+          <option name="PATTERN" value="BinaryTreeInorderTraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="BinaryTreeInorderTraversal" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeInorderTraversal.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subset.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Subset.Solution" />
-      <module name="leetcodeTasks-actual" />
+    <configuration name="SolutionTest.testInorderTraversal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie-rental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Subset.*" />
+          <option name="PATTERN" value="BinaryTreeInorderTraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="BinaryTreeInorderTraversal" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeInorderTraversal.SolutionTest" />
+      <option name="METHOD_NAME" value="testInorderTraversal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.testInorderTraversal_only_one_element" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie-rental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinaryTreeInorderTraversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BinaryTreeInorderTraversal" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeInorderTraversal.SolutionTest" />
+      <option name="METHOD_NAME" value="testInorderTraversal_only_one_element" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.testInorderTraversal" />
+        <item itemvalue="JUnit.SolutionTest.testInorderTraversal_only_one_element" />
         <item itemvalue="Application.IdentifingTeaCompetition" />
         <item itemvalue="Application.KthSmallestElementInBST.Solution" />
-        <item itemvalue="Application.Subset.Solution" />
-        <item itemvalue="Application.LongestSubstringwithAtLeastKRepeatingCharacters.Solution" />
-        <item itemvalue="Application.FourSum.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +197,7 @@
       <set>
         <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.17" />
         <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.17" />
+        <option value="jdk-17.0.9-semeru-17.0.9-02c34a7fceee-51fbb9b8" />
       </set>
     </attachedChunks>
   </component>
@@ -211,7 +230,7 @@
       <workItem from="1661653797524" duration="2123000" />
       <workItem from="1661737510470" duration="5402000" />
       <workItem from="1711946675136" duration="850000" />
-      <workItem from="1711947537317" duration="799000" />
+      <workItem from="1711947537317" duration="3238000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -249,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711947916740</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add pom.xml">
+      <option name="closed" value="true" />
+      <created>1711948360986</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711948360986</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,6 +427,11 @@
           <url>file://$PROJECT_DIR$/src/Subset/Solution.java</url>
           <line>26</line>
           <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AwesomeTreeNode/TreeNode.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
