@@ -26,8 +26,6 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 Å
 Q.idea/sonarlint/securityhotspotstore/d/1/d151928ccec69b6e57d33a73ab0619d8cc640381,6/1/615c64bec3eb960d6c10ea4aea99ed16cda6d35c
-W
-'src/BinaryTreeInorderTraversal/Solution,9/1/9107971656c218499bd8c16d573e9631f9c0d8ba
 \
 ,src/BinaryTreeInorderTraversal/Solution.java,9/1/91b53c89bbdd743d8cc377f4a4710b2a3ad9e666
 [

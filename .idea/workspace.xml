@@ -5,14 +5,119 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa9f8914-1fe6-49c4-841e-a090767f14da" name="Changes" comment="add pom.xml">
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BinaryTreeInorderTraversal/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-rental.iml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-rental.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrangingCoins/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AverageofLevelsinBinaryTree/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AwesomeListNode/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AwesomeTreeNode/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BestTimetoBuyandSellStock/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTreetoGreaterSumTree/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClimbingStairs/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcatenationofArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Convert1DArrayInto2DArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountAndSay/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountItemsMatchingaRule/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountNodesEqualtoAverageofSubtree/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeepestLeavesSum/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DefanginganIPAddress/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeleteNodeinaLinkedList/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EncodeandDecodeTinyURL/Codec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcelSheetColumnTitle/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactorialTrailingZeroes172/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalValueofVariableAfterPerformingOperations/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindFirstandLastPositionofElementinSortedArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindingtheUsersActiveMinutes/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Findtheuniquenumber/FindUniqTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Findtheuniquenumber/Kata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FizzBuzz412/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlippinganImage/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourSum/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GoalParserInterpretation/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HappyNumber/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HowManyNumbersAreSmallerThantheCurrentNumber/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JewelsandStones/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JumpGame/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KidsWithGreatesAmountOfCandy/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallestElementInBST/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Largest5digitnumberinaseries/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LengthOfLastWord/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedListCycle/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPrefix/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/CorrectParentless.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringwithAtLeastKRepeatingCharacters/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MakeArrayZerobySubtractingEqualAmounts/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrixDiagonalSum/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxIncreasetoKeepCitySkyline/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumBinaryTree/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumDepthofBinaryTree/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumNumberofCoinsYouCanGet/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumNumberofWordsFoundinSentences/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumProductDifferenceBetweenTwoPairs/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeNodesinBetweenZeros/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSimilarItems/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSimilarItems/blank.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSortedArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeTwoSortedLists/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumNumberofOperationstoMoveAllBallstoEachBox/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumSumofFourDigitNumberAfterSplittingDigits/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MissingNumber/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberOfIslands/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberofArithmeticTriplets/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberofGoodPairs/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberofLaserBeamsinaBank/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberofStepstoReduceaNumbertoZero/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeLinkedList/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeNumber9/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PartitioningIntoMinimumNumberOfDeciBinaryNumbers/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PascalsTriangle/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pow50/ArrayInPace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pow50/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowerofTwo/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductofArrayExceptSelf/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueriesonNumberofPointsInsideaCircle/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RangeSumofBST/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReduceArraySizetoTheHalf/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RelatedDNASequence/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedList/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveElement/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveLinkedListElements/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplaceAllDigitswithCharacters/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedList/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseWordsInString/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RichestCustomerWealth/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RootEqualsSumofChildren/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RunningSumof1dArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SameTree/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SequentialDigits/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShuffletheArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleNumber/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubrectangleQueries/SubrectangleQueries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subset/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubtracttheProductandSumofDigitsofanInteger/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SummaryRanges/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestingTextEditor/LineNumbering.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestingTextEditor/LineNumberingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UglyNumber/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidBraces/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidSudoku/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordPattern/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beecrowd/T2006_identifying_tea/IdentifyingTeaCompetition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moveZeroes/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BinaryTreeInorderTraversal/SolutionTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,35 +184,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.IdentifingTeaCompetition.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.SolutionTest.executor": "Run",
-    "JUnit.SolutionTest.testInorderTraversal.executor": "Debug",
-    "JUnit.SolutionTest.testInorderTraversal_only_one_element.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/kirill/develop/s7-smi/shpringTests",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.TestMe.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.IdentifingTeaCompetition.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.SolutionTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SolutionTest.testInorderTraversal.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.SolutionTest.testInorderTraversal_only_one_element.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ruasukf/IdeaProjects/leetCodeRoadToNk&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.TestMe.templates&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.SolutionTest">
     <configuration name="IdentifingTeaCompetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beecrowd.T2006_identifying_tea.IdentifingTeaCompetition" />
@@ -195,9 +305,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.17" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.17" />
-        <option value="jdk-17.0.9-semeru-17.0.9-02c34a7fceee-51fbb9b8" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -230,7 +338,15 @@
       <workItem from="1661653797524" duration="2123000" />
       <workItem from="1661737510470" duration="5402000" />
       <workItem from="1711946675136" duration="850000" />
-      <workItem from="1711947537317" duration="3238000" />
+      <workItem from="1711947537317" duration="5239000" />
+      <workItem from="1711974048872" duration="1016000" />
+      <workItem from="1712041112153" duration="1199000" />
+      <workItem from="1712302262795" duration="317000" />
+      <workItem from="1712302601191" duration="20000" />
+      <workItem from="1712302690905" duration="126000" />
+      <workItem from="1712303192409" duration="32000" />
+      <workItem from="1712303741105" duration="92000" />
+      <workItem from="1712304047837" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 93f62783">
       <created>1659440063201</created>
@@ -276,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711948360986</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add pom.xml">
+      <option name="closed" value="true" />
+      <created>1711951384656</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711951384656</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
